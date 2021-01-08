@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/BRAINLY/issues"
   },
-  "homepage": "https://github.com/alestor123/BRAINLY#readme"
+  "homepage": "https://github.com/alestor123/BRAINLY#readme",
+  "dependencies": {
+    "rss-to-json": "^1.1.2"
+  }
 }
